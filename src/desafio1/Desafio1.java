@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Desafio1 {
 
     public static void main(String[] args) {
-        int[] entrada = {100, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115, 150};
+        int[] entrada = {100, 101, 102, 103, 104, 105, 110, 111, 113, 114, 115,120,121,135,137,147,148, 150};
         List <String> grupo = new ArrayList();
         Desafio1 d = new Desafio1();
         grupo = d.metodo(entrada);
